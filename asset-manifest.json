@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/chat-app/static/css/main.a25cdf74.chunk.css",
-    "main.js": "/chat-app/static/js/main.da38d2aa.chunk.js",
-    "main.js.map": "/chat-app/static/js/main.da38d2aa.chunk.js.map",
-    "runtime-main.js": "/chat-app/static/js/runtime-main.dab4f9e9.js",
-    "runtime-main.js.map": "/chat-app/static/js/runtime-main.dab4f9e9.js.map",
-    "static/js/2.042ccff8.chunk.js": "/chat-app/static/js/2.042ccff8.chunk.js",
-    "static/js/2.042ccff8.chunk.js.map": "/chat-app/static/js/2.042ccff8.chunk.js.map",
-    "index.html": "/chat-app/index.html",
-    "precache-manifest.374a9cf5c31374f54a1a3109d9d0525b.js": "/chat-app/precache-manifest.374a9cf5c31374f54a1a3109d9d0525b.js",
-    "service-worker.js": "/chat-app/service-worker.js",
-    "static/css/main.a25cdf74.chunk.css.map": "/chat-app/static/css/main.a25cdf74.chunk.css.map",
-    "static/js/2.042ccff8.chunk.js.LICENSE.txt": "/chat-app/static/js/2.042ccff8.chunk.js.LICENSE.txt"
+    "main.css": "http://badimihai-dev.github.io/chat-app/static/css/main.a25cdf74.chunk.css",
+    "main.js": "http://badimihai-dev.github.io/chat-app/static/js/main.da38d2aa.chunk.js",
+    "main.js.map": "http://badimihai-dev.github.io/chat-app/static/js/main.da38d2aa.chunk.js.map",
+    "runtime-main.js": "http://badimihai-dev.github.io/chat-app/static/js/runtime-main.dab4f9e9.js",
+    "runtime-main.js.map": "http://badimihai-dev.github.io/chat-app/static/js/runtime-main.dab4f9e9.js.map",
+    "static/js/2.042ccff8.chunk.js": "http://badimihai-dev.github.io/chat-app/static/js/2.042ccff8.chunk.js",
+    "static/js/2.042ccff8.chunk.js.map": "http://badimihai-dev.github.io/chat-app/static/js/2.042ccff8.chunk.js.map",
+    "index.html": "http://badimihai-dev.github.io/chat-app/index.html",
+    "precache-manifest.374a9cf5c31374f54a1a3109d9d0525b.js": "http://badimihai-dev.github.io/chat-app/precache-manifest.374a9cf5c31374f54a1a3109d9d0525b.js",
+    "service-worker.js": "http://badimihai-dev.github.io/chat-app/service-worker.js",
+    "static/css/main.a25cdf74.chunk.css.map": "http://badimihai-dev.github.io/chat-app/static/css/main.a25cdf74.chunk.css.map",
+    "static/js/2.042ccff8.chunk.js.LICENSE.txt": "http://badimihai-dev.github.io/chat-app/static/js/2.042ccff8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dab4f9e9.js",
